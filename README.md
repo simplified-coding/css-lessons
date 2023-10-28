@@ -1,2 +1,3 @@
-# css-lessons
-A collection of all CSS lessons for Simplified Coding
+# CSS Lessons for Simplified Coding
+
+This repository contains a collection of lessons for learning CSS. It is recommended to follow these lessons directly [from our website](https://www.simplifiedcoding.org/lessons/view/css/). The courses are also available in this repository, but they do not offer the web editor feature. Note that the course is written in Greek.
